@@ -4,8 +4,10 @@ Malaria is a disease caused by a parasite. The parasite is spread to humans thro
 I'm implementation [this](https://electricajournal.org/en/a-novel-implementation-of-deep-learning-approach-on-malaria-parasite-detection-from-thin-blood-cell-images-131028) article. You can find dataset for this project in [here](https://lhncbc.nlm.nih.gov/LHC-publications/pubs/MalariaDatasets.html). This dataset is contains Parasitized and Uninfected image class cells. 
 
 * Uninfected Image
+
 ![Unifected Malaria Image](https://github.com/YasinEnigma/Malaria-Parasite-Detection/blob/main/1.png)
 
 * Parasitized Image
+
 ![Parasitized Malaria Image](https://github.com/YasinEnigma/Malaria-Parasite-Detection/blob/main/2.png)
 ![Parasitized Malaria Image](https://github.com/YasinEnigma/Malaria-Parasite-Detection/blob/main/3.png)
